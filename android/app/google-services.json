@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374229374103",
+    "project_id": "callnotifyapp",
+    "storage_bucket": "callnotifyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374229374103:android:74cf4c76ccdf7138ad05d2",
+        "android_client_info": {
+          "package_name": "com.callnotifyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKSPe1nnV34GTcm0rMIJwB6jYedHEpV3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
