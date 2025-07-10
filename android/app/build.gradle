@@ -1,1 +1,6 @@
-// Place your google-services.json here and configure FCM dependencies
+apply plugin: 'com.google.gms.google-services' // Add this at the bottom
+
+dependencies {
+    implementation 'com.google.firebase:firebase-messaging:23.0.0'  // Add this
+}
+
